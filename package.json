@@ -10,7 +10,7 @@
     "restart": "pm2 restart HANSAMAL-MD"
   },
   "keywords": ["hansamal-md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "IMALKA",
+  "author": "Kushan",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
